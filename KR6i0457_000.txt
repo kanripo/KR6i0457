@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 惟日雜難經
+#+DATE: 2015-08-30 20:20:00.263298
+#+PROPERTY: JUAN 0
