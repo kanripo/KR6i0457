@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:20:00.063545
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:39
 #+TITLE: 惟日雜難經
 #+PROPERTY: CBETA_ID T17n0760
 #+PROPERTY: ID KR6i0457
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 760
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0457_T_001-0605a> 
 #+PROPERTY: JUAN 1
 ¶
-No.760¶
-
- 《惟日雜難經》一卷¶
+No. 760¶
+《惟日雜難經》一卷¶
 ¶
 吳月支優婆塞支謙譯¶
 
@@ -326,7 +325,7 @@ No.760¶
 苦，要當得佛道。¶
 
 菩薩、阿羅漢皆從三十七品經行，所以得佛¶
-者，持用四意菩薩所常行。何等為四？一者、¶
+者，持有四意菩薩所常行。何等為四？一者、¶
 幸得佛業值佛識，我身要當如佛治；二者、常¶
 持悲意向十方，從悲意盡力未曾離，當脫十方¶
 人非人；三者、本上頭願佛、意不轉；四者、願在¶
