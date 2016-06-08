@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 760
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0457_T_001-0605a> 
 #+PROPERTY: JUAN 1
 ¶
@@ -554,7 +554,7 @@ No. 760¶
 人言：「我所聽經者，但用坐行故令我悉以行¶
 道，不應復聞經，但當舍去。」惒須蜜知其心¶
 所念，因以手著火中不燒，言：「是不精進耶？」¶
-便於大石上坐。有行道當於軟坐，惒須蜜言：¶
+便於大石上坐。有行道當於𣽈坐，惒須蜜言：¶
 「我取石跳一石，未墮地便得阿羅漢。」已跳石¶
 便不肯起，天因於上牽其石不得令墮，言：「卿¶
 求菩薩道，我曹悉當從卿得脫，却後二十劫¶
